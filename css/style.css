@@ -50,6 +50,9 @@ body {
 	max-width: 100%;
 }
 
+.block-about__foto p {
+	line-height: 135%;
+}
 .hero-block__img p {
 	line-height: 135%;
 }
