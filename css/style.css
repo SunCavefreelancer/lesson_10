@@ -4,87 +4,113 @@
 
 body {
 	background-color: #f6c7e9;
-	color: #fff;	
+	color: hsl(0, 0%, 100%);	
 
 }
-
+.main {
+		padding: 0px 20px;
+}
 
 /* header */
-
 .header {
-
+	padding: 20px 20px 30px 20px;
 }
 .header__container {
 	max-width: 1220px;
+	margin-bottom: 15px;
 }
-.header__icons {
-	display: inline-block;
-	font-size: 0;
-}
-.icon {
 
-}
-.icon__img {
-	display: inline-block;
+.icon__img img{
 	margin-right: 20px;
 	font-size: 20px;
+	margin-bottom: 15px;
 }
-.main {
+.icon__img p {
+	margin-bottom: 15px;
 }
-.block-top {
-}
-.block-top__container {
-}
-.block-top__logo {
-	
-}
-.logo {
-	
-}
-.logo__img {
-	
 
+/* logo */
+.logo__img img{
+	margin-bottom: 15px;
+}
+.logo__img p{
+	margin-bottom: 15px;
 }
 
 
-.block-hero {
+/* hero-block */
+.hero-block__img img {
+	margin-bottom: 15px;
+}
+.hero-block__img p {
+	margin-bottom: 15px;
+}
 
+.hero-block__img--big img {
+	max-width: 100%;
 }
-.hero-block {
+
+.hero-block__img p {
+	line-height: 135%;
 }
-.hero-block__img {
+.block-about__foto img {
+	max-width: 100%;
 }
-.hero-block__img--big {
-}
+
+
+/* block-about */
 .block-about {
+	margin-bottom: 30px;
 }
-.block-about__container {
+.block-about__foto img {
+	margin-bottom: 15px;
 }
-.block-about__foto {
+.block-about__foto p {
+	margin-bottom: 15px;
 }
-.block-about__icons {
-}
+
+
+/* block-brand */
 .block-brand {
+	margin-bottom: 30px;
 }
-.block-brand__img {
-	display: inline-block;
-	margin-right: 20px;
-	text-align: center;
+.block-brand__img p {
+	margin-bottom: 15px;
 }
-.blcok-profi {
+.block-brand__img img{
+	margin-bottom: 15px;
 }
-.profi__column {
+
+/* profi__column */
+.profi__column-img p {
+	margin-bottom: 15px;
+}
+.profi__column-img img {
+	margin-bottom: 15px;
 }
 .profi__column-img {
 	display: inline-block;
 	margin-right: 20px;
 	text-align: center;
+	margin-bottom: 15px;
 }
+
+/* block-about__icons */
+.block-about__icons img {
+	margin-bottom: 15px;
+}
+.block-about__icons p {
+	margin-bottom: 15px;
+}
+
+
+/* footer */
 .footer {
+	padding-bottom: 20px;
 }
-.footer__container {
+.footer__provid img {
+	margin-bottom: 15px;
 }
-.footer__provid {
-}
-.footer__provid-img {
+.footer__provid p {
+	margin-bottom: 15px;
 }
