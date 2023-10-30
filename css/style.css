@@ -1,0 +1,90 @@
+/*=======Скидання стилів=======*/
+@import url("reset.css");
+
+
+body {
+	background-color: #f6c7e9;
+	color: #fff;	
+
+}
+
+
+/* header */
+
+.header {
+
+}
+.header__container {
+	max-width: 1220px;
+}
+.header__icons {
+	display: inline-block;
+	font-size: 0;
+}
+.icon {
+
+}
+.icon__img {
+	display: inline-block;
+	margin-right: 20px;
+	font-size: 20px;
+}
+.main {
+}
+.block-top {
+}
+.block-top__container {
+}
+.block-top__logo {
+	
+}
+.logo {
+	
+}
+.logo__img {
+	
+
+}
+
+
+.block-hero {
+
+}
+.hero-block {
+}
+.hero-block__img {
+}
+.hero-block__img--big {
+}
+.block-about {
+}
+.block-about__container {
+}
+.block-about__foto {
+}
+.block-about__icons {
+}
+.block-brand {
+}
+.block-brand__img {
+	display: inline-block;
+	margin-right: 20px;
+	text-align: center;
+}
+.blcok-profi {
+}
+.profi__column {
+}
+.profi__column-img {
+	display: inline-block;
+	margin-right: 20px;
+	text-align: center;
+}
+.footer {
+}
+.footer__container {
+}
+.footer__provid {
+}
+.footer__provid-img {
+}
