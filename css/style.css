@@ -50,27 +50,24 @@ body {
 	max-width: 100%;
 }
 
-.block-about__foto p {
-	line-height: 135%;
-}
-.hero-block__img p {
-	line-height: 135%;
-}
-.block-about__foto img {
-	max-width: 100%;
-}
+
 
 
 /* block-about */
 .block-about {
 	margin-bottom: 30px;
 }
-.block-about__foto img {
-	margin-bottom: 15px;
-}
 .block-about__foto p {
+	line-height: 135%;
+}
+.hero-block__img p {
+	line-height: 135%;
 	margin-bottom: 15px;
 }
+.block-about__foto img {
+	max-width: 100%;	
+}
+
 
 
 /* block-brand */
@@ -87,9 +84,11 @@ body {
 /* profi__column */
 .profi__column-img p {
 	margin-bottom: 15px;
+	line-height: 130%;
 }
 .profi__column-img img {
 	margin-bottom: 15px;
+
 }
 .profi__column-img {
 	display: inline-block;
