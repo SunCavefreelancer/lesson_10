@@ -133,3 +133,9 @@ body {
 .footer__provid p:hover {
 	color: blue;
 }
+.footer__provid-img p {
+	line-height: 130%;
+}
+.footer__provid-img--big img{
+	max-width: 100%;
+}
